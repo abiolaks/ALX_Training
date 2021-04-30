@@ -1,0 +1,19 @@
+Secure Shell(SSH) is a UNIX-based interface and protocol for securely gettting access to a remote computer
+my public IP: 3.238.182.150
+my port : 22
+login : root
+password : 067eD2489eB;1CF89
+
+Your server is a distant machine. Everything i will run once logged in will not run on my computer, but on this distant computer
+which is hosted in a datacenter, somewhere in the United States
+
+IP address identifies each computer using the internet Protocol to comunicate over a network. it is just like a postal address
+Type exit to exit your server and press enter(not shutdown or poweroff)
+Type this command on linux to login to your server:ssh root@3.238.182.150, then enter pasword
+and hit enter again now you are login
+you see a warning message but you can always trust the host server that you were given
+
+Getting the check what operating system my server is running
+
+use the command uname(unix name) it prints the name version and other details about the current machine and the operating system running on it
+

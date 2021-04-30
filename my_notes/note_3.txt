@@ -1,0 +1,18 @@
+/tmp:This directory contains mostly files that are required temporarily. 
+Many programs use this to create lock files and for temporary storage of 
+data.
+Many of these files are important for currently running programs and 
+deleting them may result in a system crash
+
+The Config file
+
+To modify the page of your ip address in the browser.first it has to 
+be located  on your server.
+Apache keeps its main configuration files within the /etc/apache2 
+directory
+
+Every website manage by apache has it own configuration file in this
+format :/etc/apache2/sites-available/000-default.conf
+inside this configuration file you can find an option called 
+DocumentRoot that specifies which directory contains the files of 
+the default website.

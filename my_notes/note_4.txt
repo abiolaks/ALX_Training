@@ -1,0 +1,28 @@
+Project "Make your own website"
+You've set yourself up for success, now it's time to expand your mind and your belief in what you're capable of.
+This experience is designed for everyone. From first time coders to experienced professionals.
+We provide some tips and tricks, but remember, you are expected to go find answers to what you don't know or understand.
+
+What can I make my website about?
+Remember, you are applying to join the ALX Software Engineering Programme.
+And at ALX, you will journey toward your life of impact by doing hard things.
+
+Though you can pick a website theme of your choosing, here are a few suggestions:
+
+Tell us about your personal mission
+Tell us about an opportunity for impact in your community
+Tell us about a venture you created
+Tell us about your big hairy audacious goals
+Think about how you will leverage your ALX Software Engineering training toward a meaningful career of growth and impact.
+
+How far should I go?
+As with all things at ALX, push yourself to go beyond what is asked for. Think about what aspects of the project you enjoy most and get creative!
+During review, what you build extra will be taken into account just as much as what you're required to do.
+At the very least, you must successfully complete all tutorials and designed tasks. And this project must showcase your original work.
+
+Do not utilize frameworks like Bootstrap to do the work for you.
+Important: You are not allowed to install, import or use external libraries. This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
+
+Once you decide your project is finished, click "I'm done with my Level 2 project!"
+
+When you’re ready to get started, connect to your server using SSH if you weren't already there, and go for it!

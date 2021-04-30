@@ -1,0 +1,5 @@
+Using git
+    start by creating a repository on github to host your code
+    then download the repository to your local machine using the 
+    'git clone' command follow by the url of the repository that you want to 
+     download.  
